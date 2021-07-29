@@ -1,0 +1,37 @@
+/* google fonts import links */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    width: 100%;
+    background: #264653;
+}
+
+.purchase-button {
+
+    background: #f37d60;
+}
+.font-color {
+
+   color:  #E76F51;
+}
+#image-filter {
+
+    filter: grayscale(100%);
+}
+#iocn-color{
+    color: #E77C40;
+}
+
+.buy-button {
+
+    background: rgb(243, 32, 17);
+    transition: .5s;
+}
+
+.buy-button:hover {
+    background: rgb(155, 14, 4);
+}
